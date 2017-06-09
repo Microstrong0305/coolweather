@@ -7,5 +7,5 @@
 
 ![Image](https://github.com/Microstrong0305/coolweather/app_img/2.png)
 
-![Image](https://github.com/Microstrong0305/coolweather/app_img/3.png)
+![Image](https://github.com/Microstrong0305/coolweather/master/coolweather/app_img/3.png)
 
